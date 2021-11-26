@@ -15,8 +15,8 @@
 <img align="left" alt="HTML5" width="35px" src="./src/img/icons8-html-5.svg" />
 <img align="left" alt="CSS3" width="35px" src="./src/img/icons8-css3.svg" />
 <img align="left" alt="JavaScript" width="35px" src="./src/img/icons8-javascript.svg" />
-<img align="left" alt="Angular JS" width="35px" src="./src/img/icons8-angularjs.svg" />  
-####.
+<img align="left" alt="Angular JS" width="35px" src="./src/img/icons8-angularjs.svg" />     
+
 
 - Learn Java backend development:  
 Core Logic: Core Java.  
